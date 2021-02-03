@@ -1,0 +1,59 @@
+h5{
+    font-weight: 700;
+}
+h2{
+    text-transform: uppercase;
+}
+.head-style{
+    /* margin: 0 auto; */
+    /* width: 1440px; */
+    height: 715px;
+    background-color: #FFFBF0;
+}
+.head-style img{
+    width: 70%;
+}
+.header-style h1{
+    color: #FABE4C;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+#header-text{
+    color: #363958;
+}
+.btn-style{
+    background-color: #A4BC46;
+    color: white;
+    font-size: 15px;
+}
+.card-images{
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+.card-images img{
+    width: 60%;
+    padding: 20px;
+}
+.woman-jacket{
+    /* padding: ; */
+    border: 0;
+    /* padding: 100px; */
+}
+.woman-card-footer{
+    background-color: white;
+    border: 0;
+}
+.woman-card-footer small{font-size: 25px; font-weight: 800; color: orange;}
+
+.store-img img{
+    width: 50%;
+}
+.store-sty{
+    border: 0;
+    border-radius: 10px;
+}
+.right-store-img img{
+    width: 80%;
+}
